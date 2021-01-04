@@ -4,4 +4,4 @@
 
 •md => markdown
 
-อธิบายการใช้งาน github และ Google colab ว่าหน้าที่ของแต่ละอันคืออะไร
+อธิบายการใช้งาน github และ Google colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายการ Save ไฟล์ Google colab ลง github
